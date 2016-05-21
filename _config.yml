@@ -1,29 +1,41 @@
-name: En route
-favicon: null
-layout_spectrum: 0.24351
-typography_spectrum: 0.45388
 title: 'Travel stories from Kate & Chris'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.6040828
+  brandStrength: 0.5322741365525872
+  lightness: 0
   brandColors:
     - '#6db8f1'
     - '#fffebe'
     - '#764b3b'
     - '#241613'
     - '#e0933d'
-  brandStrength: 0.5322741365525872
-  lightness: 0.047071245266124606
-  saturation: 0.6040828335098922
-  rhythmicContrast: 0.5789563192520291
-purpose: []
+  rhythmicContrast: 0.5789563
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: En route
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.45388
+layout_spectrum: 0.24351
