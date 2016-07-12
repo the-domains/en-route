@@ -4,7 +4,7 @@
         <description><![CDATA[Travel stories from Kate & Chris]]></description>
         <link>https://thegrid.ai/en-route/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 12:34:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2016 12:36:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/en-route/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/en-route/4e1d9924-8c78-407c-9a29-c519c56bcf17/index.html</link>
             <guid isPermaLink="false">4e1d9924-8c78-407c-9a29-c519c56bcf17</guid>
             <pubDate>Thu, 26 May 2016 22:33:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Re-united after 6-1/2 long weeks.</p>]]></description>
-            <link>https://thegrid.ai/en-route/re-united-after-6-12-long-weeks/index.html</link>
-            <guid isPermaLink="false">8d8bb231-7643-48ea-993d-4a154ca8ccb5</guid>
-            <pubDate>Tue, 12 Jul 2016 12:34:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
