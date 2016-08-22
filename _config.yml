@@ -1,7 +1,18 @@
+layout_spectrum: 0.3351254
+typography_spectrum: 0.5085114883258939
+color:
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+  brandStrength: 0.483864702982828
+  lightness: 0.067209581611678
+  saturation: 0.7438423393759876
+  rhythmicContrast: 0.3716406349558383
 name: En route
 favicon: null
-layout_spectrum: 0.3351254
-typography_spectrum: 0.45388
 collections:
   - index:
       path: /
@@ -27,15 +38,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#FFFFE5'
-    - '#15120D'
-    - '#95866F'
-    - '#E1C9AD'
-    - '#9C5A4E'
-  brandStrength: 0.5322741365525872
-  lightness: 0
-  saturation: 0.6040828
-  rhythmicContrast: 0.5789563
 purpose: []
